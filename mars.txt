@@ -1,4 +1,4 @@
 The two moons were a trouble for the Wolfman
 The mummy will appreciate the lack of humidity
 Maybe Venus is a better plante for abase...it actally is!
-Add a new line to plantes-line
+We romevd the conflicts on this line
